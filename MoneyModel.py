@@ -21,3 +21,4 @@ class MoneyModel(Model):
         for i in range(self.num_agents):
             a = MoneyAgent(i, self)
 
+test = 1
